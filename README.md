@@ -1,15 +1,15 @@
-<h1 align="center">Deep-Live-Cam-VFX</h1>
+<h1 align="center">Deep-Live-Cam</h1>
 
 <p align="center">
   Real-time face swap and video deepfake with a single click and only a single image.
 </p>
 
 <p align="center">
-<a href="https://www.deeplivecamvfx.com" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11395" alt="hacksider%2FDeep-Live-Cam | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://deeplivecamvfx.com/" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11395" alt="hacksider%2FDeep-Live-Cam | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/hacksider/Deep-Live-Cam/raw/main/media/demo.gif" alt="Demo GIF" width="800">
+  <img src="media/demo.gif" alt="Demo GIF" width="800">
 </p>
 
 ##  Disclaimer
@@ -32,7 +32,7 @@ Users are expected to use this software responsibly and legally. If using a real
 
 ## Exclusive v2.4 Quick Start - Pre-built (Windows/Mac Silicon)
 
-  <a href="https://deeplivecamvfx.com" target="_blank"> <img src="https://github.com/hacksider/Deep-Live-Cam/raw/main/media/Download.png" width="285" height="77" />
+  <a href="https://deeplivecamvfx.com/"> <img src="media/Download.png" width="285" height="77" />
 
 ##### This is the fastest build you can get if you have a discrete NVIDIA or AMD GPU or Mac Silicon, And you'll receive special priority support.
  
@@ -51,7 +51,7 @@ Users are expected to use this software responsibly and legally. If using a real
 **Retain your original mouth for accurate movement using Mouth Mask**
 
 <p align="center">
-  <img src="https://github.com/hacksider/Deep-Live-Cam/raw/main/media/ludwig.gif" alt="resizable-gif">
+  <img src="media/ludwig.gif" alt="resizable-gif">
 </p>
 
 ### Face Mapping
@@ -59,7 +59,7 @@ Users are expected to use this software responsibly and legally. If using a real
 **Use different faces on multiple subjects simultaneously**
 
 <p align="center">
-  <img src="https://github.com/hacksider/Deep-Live-Cam/raw/main/media/streamers.gif" alt="face_mapping_source">
+  <img src="media/streamers.gif" alt="face_mapping_source">
 </p>
 
 ### Your Movie, Your Face
@@ -67,7 +67,7 @@ Users are expected to use this software responsibly and legally. If using a real
 **Watch movies with any face in real-time**
 
 <p align="center">
-  <img src="https://github.com/hacksider/Deep-Live-Cam/raw/main/media/movie.gif" alt="movie">
+  <img src="media/movie.gif" alt="movie">
 </p>
 
 ### Live Show
@@ -75,7 +75,7 @@ Users are expected to use this software responsibly and legally. If using a real
 **Run Live shows and performances**
 
 <p align="center">
-  <img src="https://github.com/hacksider/Deep-Live-Cam/raw/main/media/live_show.gif" alt="show">
+  <img src="media/live_show.gif" alt="show">
 </p>
 
 ### Memes
@@ -83,7 +83,7 @@ Users are expected to use this software responsibly and legally. If using a real
 **Create Your Most Viral Meme Yet**
 
 <p align="center">
-  <img src="https://github.com/hacksider/Deep-Live-Cam/raw/main/media/meme.gif" alt="show" width="450"> 
+  <img src="media/meme.gif" alt="show" width="450"> 
   <br>
   <sub>Created using Many Faces feature in Deep-Live-Cam</sub>
 </p>
@@ -95,5 +95,3 @@ Users are expected to use this software responsibly and legally. If using a real
 <p align="center">
   <video src="https://github.com/user-attachments/assets/2e9b9b82-fa04-4b70-9f56-b1f68e7672d0" width="450" controls></video>
 </p>
-
-
