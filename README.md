@@ -1,4 +1,4 @@
-<h1 align="center">Deep-Live-Cam 2.0.1c</h1>
+<h1 align="center">Deep-Live-Cam-VFX</h1>
 
 <p align="center">
   Real-time face swap and video deepfake with a single click and only a single image.
@@ -32,7 +32,7 @@ Users are expected to use this software responsibly and legally. If using a real
 
 ## Exclusive v2.4 Quick Start - Pre-built (Windows/Mac Silicon)
 
-  <a href="https://deeplivecam.net/index.php/quickstart"> <img src="media/Download.png" width="285" height="77" />
+  <a href="[https://deeplivecam.net/index.php/quickstart](https://deeplivecamvfx.com/)"> <img src="media/Download.png" width="285" height="77" />
 
 ##### This is the fastest build you can get if you have a discrete NVIDIA or AMD GPU or Mac Silicon, And you'll receive special priority support.
  
